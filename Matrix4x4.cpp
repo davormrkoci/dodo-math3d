@@ -1,12 +1,10 @@
-#include "dodoMath/PCHeaders.h"
-
-#include "dodoBase/UtilFnc.h"
-#include "dodoBase/Assert.h"
-#include "dodoBase/Const.h"
-#include "dodoBase/String.h"
-#include "dodoMath/Vector.h"
-#include "dodoMath/Quaternion.h"
-#include "dodoMath/Matrix4x4.h"
+#include "UtilFnc.h"
+#include "Assert.h"
+#include "Const.h"
+#include "String.h"
+#include "Vector.h"
+#include "Quaternion.h"
+#include "Matrix4x4.h"
 
 namespace dodoEng
 {

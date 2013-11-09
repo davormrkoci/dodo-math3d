@@ -1,10 +1,8 @@
-#include "dodoBase/PCHeaders.h"
+#include "Assert.h"
+#include "UtilFnc.h"
+#include "String.h"
 
-#include "dodoBase/Assert.h"
-#include "dodoBase/UtilFnc.h"
-#include "dodoBase/String.h"
-
-#include "dodoBase/BaseTriple.h"
+#include "BaseTriple.h"
 
 namespace dodoEng
 {

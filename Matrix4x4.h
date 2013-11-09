@@ -11,7 +11,7 @@
 #if !defined(DODOENG_MATRIX4X4_H_)
 #define DODOENG_MATRIX4X4_H_
 
-#include "dodoMath/Vector.h"
+#include "Vector.h"
 
 namespace dodoEng
 {

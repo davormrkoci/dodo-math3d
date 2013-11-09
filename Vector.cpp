@@ -1,11 +1,9 @@
-#include "dodoMath/PCHeaders.h"
-
-#include "dodoBase/Assert.h"
-#include "dodoBase/String.h"
-#include "dodoBase/Const.h"
-#include "dodoMath/Point.h"
-#include "dodoMath/Matrix4x4.h"
-#include "dodoMath/Vector.h"
+#include "Assert.h"
+#include "String.h"
+#include "Const.h"
+#include "Point.h"
+#include "Matrix4x4.h"
+#include "Vector.h"
 
 namespace dodoEng
 {

@@ -1,7 +1,7 @@
 #if !defined(DODOENG_VECTOR4_H_)
 #define DODOENG_VECTOR4_H_
 
-#include "dodoBase/BaseQuad.h"
+#include "BaseQuad.h"
 
 namespace dodoEng
 {

@@ -12,7 +12,7 @@
 #if !defined(DODOENG_POINT_H_)
 #define DODOENG_POINT_H_
 
-#include "dodoBase/BaseTriple.h"
+#include "BaseTriple.h"
 
 namespace dodoEng
 {
